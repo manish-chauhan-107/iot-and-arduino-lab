@@ -5,6 +5,7 @@ iot-lab/
 │   └── button_led/
 │
 ├── 02_Sensors/
+│   ├── ldr sensor
 │   ├── ir_sensor/
 │   ├── ultrasonic_sensor/
 │   └── dht11_sensor/
