@@ -1,0 +1,18 @@
+ LDR Stand for Light dependent resistor 
+
+
+DEFINATION :
+It is a light sensor whose resistance changes with with the amount of light falling on it. 
+
+WORKING PRINCIPLE --
+It is a light  sensor whose resistance is depende on the amount of incident . 
+when light increases --> Resistance decreases
+when light decreases --> Resistance increases
+
+
+USE --
+      |--Turning on a street light automatically at night 
+      |--camera light meters 
+      |--home automation 
+      |--solar trackers.
+
