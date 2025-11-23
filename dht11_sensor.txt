@@ -1,1 +1,8 @@
 dht11-sensor :
+The DHT11 is a digital sensor that measures temperature and humidity. It contains a capacitive humidity sensor and a thermistor, which detect changes in the environment and give a digital output.
+
+Measures temperature and humidity.
+Uses a capacitive humidity sensor and thermistor.
+Output is digital, easy to interface with Arduino.
+Range: Temp 0–50°C, Humidity 20–90%.
+Accuracy: Moderate, suitable for basic project
